@@ -10,3 +10,7 @@ button, h2{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+mark{
+    background-color: rgb(rgb(78, 158, 255), rgb(201, 255, 201), rgb(183, 183, 193));
+}
